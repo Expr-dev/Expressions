@@ -1,2 +1,3 @@
-# Expressions
-Program for calculation of expressions with abstract operators, functions and brackets
+#Expressions OOP dynamic implementation
+##TODO:
+1. Calculator on C#
